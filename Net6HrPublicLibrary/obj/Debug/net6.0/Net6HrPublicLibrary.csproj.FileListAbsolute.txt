@@ -1,0 +1,13 @@
+C:\Users\mnfar\source\repos\apel\Net6HrPublicLibrary\Net6HrPublicLibrary\bin\Debug\net6.0\NLog.config
+C:\Users\mnfar\source\repos\apel\Net6HrPublicLibrary\Net6HrPublicLibrary\bin\Debug\net6.0\Net6HrPublicLibrary.deps.json
+C:\Users\mnfar\source\repos\apel\Net6HrPublicLibrary\Net6HrPublicLibrary\bin\Debug\net6.0\Net6HrPublicLibrary.dll
+C:\Users\mnfar\source\repos\apel\Net6HrPublicLibrary\Net6HrPublicLibrary\bin\Debug\net6.0\Net6HrPublicLibrary.pdb
+C:\Users\mnfar\source\repos\apel\Net6HrPublicLibrary\Net6HrPublicLibrary\obj\Debug\net6.0\Net6HrPublicLibrary.csproj.AssemblyReference.cache
+C:\Users\mnfar\source\repos\apel\Net6HrPublicLibrary\Net6HrPublicLibrary\obj\Debug\net6.0\Net6HrPublicLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnfar\source\repos\apel\Net6HrPublicLibrary\Net6HrPublicLibrary\obj\Debug\net6.0\Net6HrPublicLibrary.AssemblyInfoInputs.cache
+C:\Users\mnfar\source\repos\apel\Net6HrPublicLibrary\Net6HrPublicLibrary\obj\Debug\net6.0\Net6HrPublicLibrary.AssemblyInfo.cs
+C:\Users\mnfar\source\repos\apel\Net6HrPublicLibrary\Net6HrPublicLibrary\obj\Debug\net6.0\Net6HrPublicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mnfar\source\repos\apel\Net6HrPublicLibrary\Net6HrPublicLibrary\obj\Debug\net6.0\Net6HrPublicLibrary.dll
+C:\Users\mnfar\source\repos\apel\Net6HrPublicLibrary\Net6HrPublicLibrary\obj\Debug\net6.0\refint\Net6HrPublicLibrary.dll
+C:\Users\mnfar\source\repos\apel\Net6HrPublicLibrary\Net6HrPublicLibrary\obj\Debug\net6.0\Net6HrPublicLibrary.pdb
+C:\Users\mnfar\source\repos\apel\Net6HrPublicLibrary\Net6HrPublicLibrary\obj\Debug\net6.0\ref\Net6HrPublicLibrary.dll
